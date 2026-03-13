@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:iron_golem_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "WIW",
+      " W "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:carved_pumpkin"
+      },
+      "W": {
+        "item": "minecraft:white_wool"
+      },
+      "I": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "plushies:iron_golem_plushie",
+      "count": 1
+    }
+  }
+}

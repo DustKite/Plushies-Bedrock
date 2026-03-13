@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:wandering_trader_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#Y#",
+      "BEB",
+      "BgB"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:lime_wool"
+      },
+      "Y": {
+        "item": "minecraft:yellow_wool"
+      },
+      "B": {
+        "item": "minecraft:blue_wool"
+      },
+      "E": {
+        "item": "minecraft:emerald"
+      },
+      "g": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "item": "plushies:wandering_trader_plushie",
+      "count": 1
+    }
+  }
+}

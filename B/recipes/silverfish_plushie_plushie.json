@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:silverfish_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#L#",
+      "LLL"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:black_wool"
+      },
+      "L": {
+        "item": "minecraft:light_gray_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:silverfish_plushie",
+      "count": 1
+    }
+  }
+}

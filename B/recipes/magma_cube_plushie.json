@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:magma_cube_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "MM",
+      "MM"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:magma_cream"
+      },
+      "M": {
+        "item": "minecraft:magma"
+      }
+    },
+    "result": {
+      "item": "plushies:magma_cube_plushie",
+      "count": 1
+    }
+  }
+}

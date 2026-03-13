@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:enderman_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#B#",
+      "BBB",
+      " B "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:magenta_wool"
+      },
+      "B": {
+        "item": "minecraft:black_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:enderman_plushie",
+      "count": 1
+    }
+  }
+}

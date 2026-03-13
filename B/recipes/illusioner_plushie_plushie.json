@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:illusioner_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "#L#",
+      "BLB"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:light_blue_wool"
+      },
+      "L": {
+        "item": "minecraft:light_gray_wool"
+      },
+      "B": {
+        "item": "minecraft:black_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:illusioner_plushie",
+      "count": 1
+    }
+  }
+}

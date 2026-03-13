@@ -1,0 +1,281 @@
+{
+    "num_mip_levels": 4,
+    "padding": 8,
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "frog_plushie": {
+            "textures": "textures/blocks/frog_plushie"
+        },
+        "ghast_plushie": {
+            "textures": "textures/blocks/ghast_plushie"
+        },
+        "goat_plushie": {
+            "textures": "textures/blocks/goat_plushie"
+        },
+        "panda_plushie": {
+            "textures": "textures/blocks/panda_plushie"
+        },
+        "slime_plushie": {
+            "textures": "textures/blocks/slime_plushie"
+        },
+        "red_fox_plushie": {
+            "textures": "textures/blocks/red_fox_plushie"
+        },
+        "white_fox_plushie": {
+            "textures": "textures/blocks/white_fox_plushie"
+        },
+        "cow_plushie": {
+            "textures": "textures/blocks/cow_plushie"
+        },
+        "mooshroom_plushie": {
+            "textures": "textures/blocks/mooshroom_plushie"
+        },
+        "bee_plushie": {
+            "textures": "textures/blocks/bee_plushie"
+        },
+        "llama_plushie": {
+            "textures": "textures/blocks/llama_plushie"
+        },
+        "magma_cube_plushie": {
+            "textures": "textures/blocks/magma_cube_plushie"
+        },
+        "axolotl_plushie": {
+            "textures": "textures/blocks/axolotl_plushie"
+        },
+        "turtle_plushie": {
+            "textures": "textures/blocks/turtle_plushie"
+        },
+        "snow_golem_plushie": {
+            "textures": "textures/blocks/snow_golem_plushie"
+        },
+        "dolphin_plushie": {
+            "textures": "textures/blocks/dolphin_plushie"
+        },
+        "parrot_plushie": {
+            "textures": "textures/blocks/parrot_plushie"
+        },
+        "warden_plushie": {
+            "textures": "textures/blocks/warden_plushie"
+        },
+        "warm_frog_plushie": {
+            "textures": "textures/blocks/warm_frog_plushie"
+        },
+        "cold_frog_plushie": {
+            "textures": "textures/blocks/cold_frog_plushie"
+        },
+        "cat_plushie": {
+            "textures": "textures/blocks/cat_plushie"
+        },
+        "enderman_plushie": {
+            "textures": "textures/blocks/enderman_plushie"
+        },
+        "sheep_plushie": {
+            "textures": "textures/blocks/sheep_plushie"
+        },
+        "pig_plushie": {
+            "textures": "textures/blocks/pig_plushie"
+        },
+        "tadpole_plushie": {
+            "textures": "textures/blocks/tadpole_plushie"
+        },
+        "allay_plushie": {
+            "textures": "textures/blocks/allay_plushie"
+        },
+        "vex_plushie": {
+            "textures": "textures/blocks/vex_plushie"
+        },
+        "black_rabbit_plushie": {
+            "textures": "textures/blocks/black_rabbit_plushie"
+        },
+        "brown_rabbit_plushie": {
+            "textures": "textures/blocks/brown_rabbit_plushie"
+        },
+        "killer_bunny_plushie": {
+            "textures": "textures/blocks/killer_bunny_plushie"
+        },
+        "salt_rabbit_plushie": {
+            "textures": "textures/blocks/salt_rabbit_plushie"
+        },
+        "toast_rabbit_plushie": {
+            "textures": "textures/blocks/toast_rabbit_plushie"
+        },
+        "white_rabbit_plushie": {
+            "textures": "textures/blocks/white_rabbit_plushie"
+        },
+        "white_splotched_rabbit_plushie": {
+            "textures": "textures/blocks/white_splotched_rabbit_plushie"
+        },
+        "yellow_rabbit_plushie": {
+            "textures": "textures/blocks/yellow_rabbit_plushie"
+        },
+        "creeper_plushie": {
+            "textures": "textures/blocks/creeper_plushie"
+        },
+        "strider_plushie": {
+            "textures": "textures/blocks/strider_plushie"
+        },
+        "endermite_plushie": {
+            "textures": "textures/blocks/endermite_plushie"
+        },
+        "chicken_plushie": {
+            "textures": "textures/blocks/chicken_plushie"
+        },
+        "vindicator_plushie": {
+            "textures": "textures/blocks/vindicator_plushie"
+        },
+        "evoker_plushie": {
+            "textures": "textures/blocks/evoker_plushie"
+        },
+        "zombie_plushie": {
+            "textures": "textures/blocks/zombie_plushie"
+        },
+        "wolf_plushie": {
+            "textures": "textures/blocks/wolf_plushie"
+        },
+        "squid_plushie": {
+            "textures": "textures/blocks/squid_plushie"
+        },
+        "glow_squid_plushie": {
+            "textures": "textures/blocks/glow_squid_plushie"
+        },
+        "pillager_plushie": {
+            "textures": "textures/blocks/pillager_plushie"
+        },
+        "illusioner_plushie": {
+            "textures": "textures/blocks/illusioner_plushie"
+        },
+        "camel_plushie": {
+            "textures": "textures/blocks/camel_plushie"
+        },
+        "guardian_plushie": {
+            "textures": "textures/blocks/guardian_plushie"
+        },
+        "elder_guardian_plushie": {
+            "textures": "textures/blocks/elder_guardian_plushie"
+        },
+        "sniffer_plushie": {
+            "textures": "textures/blocks/sniffer_plushie"
+        },
+        "polar_bear_plushie": {
+            "textures": "textures/blocks/polar_bear_plushie"
+        },
+        "witch_plushie": {
+            "textures": "textures/blocks/witch_plushie"
+        },
+        "ravager_plushie": {
+            "textures": "textures/blocks/ravager_plushie"
+        },
+        "horse_plushie": {
+            "textures": "textures/blocks/horse_plushie"
+        },
+        "spider_plushie": {
+            "textures": "textures/blocks/spider_plushie"
+        },
+        "husk_plushie": {
+            "textures": "textures/blocks/husk_plushie"
+        },
+        "pufferfish_plushie": {
+            "textures": "textures/blocks/pufferfish_plushie"
+        },
+        "hoglin_plushie": {
+            "textures": "textures/blocks/hoglin_plushie"
+        },
+        "bat_plushie": {
+            "textures": "textures/blocks/bat_plushie"
+        },
+        "cod_plushie": {
+            "textures": "textures/blocks/cod_plushie"
+        },
+        "ocelot_plushie": {
+            "textures": "textures/blocks/ocelot_plushie"
+        },
+        "salmon_plushie": {
+            "textures": "textures/blocks/salmon_plushie"
+        },
+        "skeleton_horse_plushie": {
+            "textures": "textures/blocks/skeleton_horse_plushie"
+        },
+        "villager_plushie": {
+            "textures": "textures/blocks/villager_plushie"
+        },
+        "wandering_trader_plushie": {
+            "textures": "textures/blocks/wandering_trader_plushie"
+        },
+        "cave_spider_plushie": {
+            "textures": "textures/blocks/cave_spider_plushie"
+        },
+        "iron_golem_plushie": {
+            "textures": "textures/blocks/iron_golem_plushie"
+        },
+        "piglin_plushie": {
+            "textures": "textures/blocks/piglin_plushie"
+        },
+        "zombiefied_piglin_plushie": {
+            "textures": "textures/blocks/zombiefied_piglin_plushie"
+        },
+        "blaze_plushie": {
+            "textures": "textures/blocks/blaze_plushie"
+        },
+        "drowned_plushie": {
+            "textures": "textures/blocks/drowned_plushie"
+        },
+        "phantom_plushie": {
+            "textures": "textures/blocks/phantom_plushie"
+        },
+        "piglin_brute_plushie": {
+            "textures": "textures/blocks/piglin_brute_plushie"
+        },
+        "shulker_plushie": {
+            "textures": "textures/blocks/shulker_plushie"
+        },
+        "silverfish_plushie": {
+            "textures": "textures/blocks/silverfish_plushie"
+        },
+        "skeleton_plushie": {
+            "textures": "textures/blocks/skeleton_plushie"
+        },
+        "stray_plushie": {
+            "textures": "textures/blocks/stray_plushie"
+        },
+        "wither_skeleton_plushie": {
+            "textures": "textures/blocks/wither_skeleton_plushie"
+        },
+        "zoglin_plushie": {
+            "textures": "textures/blocks/zoglin_plushie"
+        },
+        "zombie_villager_plushie": {
+            "textures": "textures/blocks/zombie_villager_plushie"
+        },
+        "wither_plushie": {
+            "textures": "textures/blocks/wither_plushie"
+        },
+        "armadillo_plushie": {
+            "textures": "textures/blocks/armadillo_plushie"
+        },
+        "breeze_plushie": {
+            "textures": "textures/blocks/breeze_plushie"
+        },
+        "mule_plushie": {
+            "textures": "textures/blocks/mule_plushie"
+        },
+        "donkey_plushie": {
+            "textures": "textures/blocks/donkey_plushie"
+        },
+        "zombie_horse_plushie": {
+            "textures": "textures/blocks/zombie_horse_plushie"
+        },
+        "booged_plushie": {
+            "textures": "textures/blocks/booged_plushie"
+        },
+        "small_tropical_fish_plushie": {
+            "textures": "textures/blocks/small_tropical_fish_plushie"
+        },
+        "large_tropical_fish_plushie": {
+            "textures": "textures/blocks/large_tropical_fish_plushie"
+        },
+        "snow_golem_plushie_pumpkin": {
+            "textures": "textures/blocks/snow_golem_plushie_pumpkin"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

@@ -1,0 +1,50 @@
+{
+    "dependencies": [
+        {
+            "uuid": "fd5ad5c8-27f7-40b8-8bee-1e37774b7e25",
+            "version": [
+                4,
+                2,
+                0
+            ]
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.14.0"
+        }
+    ],
+    "format_version": 2,
+    "header": {
+        "description": "pack.description",
+        "min_engine_version": [
+            1,
+            26,
+            0
+        ],
+        "name": "pack.name",
+        "uuid": "565639a8-567d-405b-86c1-fe0813983181",
+        "version": [
+            4,
+            2,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "pack.description",
+            "type": "data",
+            "uuid": "bd429d59-c31a-478a-9a14-baf5c04e5cf5",
+            "version": [
+                4,
+                2,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "product_type": "addon",
+        "authors": [
+            "Dust_Kite"
+        ]
+    }
+}

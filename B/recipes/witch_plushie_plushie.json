@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:witch_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#P#",
+      "PPP",
+      "PNP"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:black_wool"
+      },
+      "P": {
+        "item": "minecraft:purple_wool"
+      },
+      "N": {
+        "item": "minecraft:nether_wart"
+      }
+    },
+    "result": {
+      "item": "plushies:witch_plushie",
+      "count": 1
+    }
+  }
+}

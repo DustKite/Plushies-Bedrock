@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:turtle_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "BGB",
+      " G "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:turtle_scute"
+      },
+      "B": {
+        "item": "minecraft:black_wool"
+      },
+      "G": {
+        "item": "minecraft:green_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:turtle_plushie",
+      "count": 1
+    }
+  }
+}

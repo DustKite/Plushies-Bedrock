@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:stray_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "WPW",
+      " W "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:skeleton_skull"
+      },
+      "W": {
+        "item": "minecraft:white_wool"
+      },
+      "P": {
+        "item": "minecraft:packed_ice"
+      }
+    },
+    "result": {
+      "item": "plushies:stray_plushie",
+      "count": 1
+    }
+  }
+}

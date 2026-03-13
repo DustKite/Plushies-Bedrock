@@ -1,0 +1,277 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "plushies:panda_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:slime_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:red_fox_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:white_fox_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:cow_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:mooshroom_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:bee_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:llama_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:magma_cube_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:axolotl_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:turtle_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:snow_golem_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:dolphin_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:parrot_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:warden_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:frog_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:goat_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:cat_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:enderman_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:sheep_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:pig_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:tadpole_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:allay_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:vex_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:black_rabbit_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:brown_rabbit_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:killer_bunny_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:salt_rabbit_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:toast_rabbit_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:white_rabbit_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:white_splotched_rabbit_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:yellow_rabbit_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:creeper_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:strider_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:endermite_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:chicken_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:vindicator_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:evoker_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:zombie_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:wolf_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:squid_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:glow_squid_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:pillager_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:illusioner_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:camel_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:guardian_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:elder_guardian_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:sniffer_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:polar_bear_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:witch_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:ravager_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:horse_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:spider_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:husk_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:warm_frog_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:cold_frog_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:pufferfish_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:hoglin_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:bat_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:cod_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:ocelot_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:salmon_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:skeleton_horse_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:villager_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:wandering_trader_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:cave_spider_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:iron_golem_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:piglin_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:zombiefied_piglin_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:blaze_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:drowned_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:ghast_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:piglin_brute_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:phantom_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:shulker_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:silverfish_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:skeleton_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:stray_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:wither_skeleton_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:zoglin_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:zombie_villager_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:wither_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:armadillo_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:breeze_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:mule_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:donkey_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:zombie_horse_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:bogged_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:small_tropical_fish_plushie": {
+        "sound": "cloth"
+    },
+    "plushies:large_tropical_fish_plushie": {
+        "sound": "cloth"
+    }
+}

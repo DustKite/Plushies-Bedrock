@@ -1,0 +1,34 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:piglin_brute_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " #G",
+      "PCP",
+      " P "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:piglin_head"
+      },
+      "G": {
+        "item": "minecraft:golden_axe"
+      },
+      "P": {
+        "item": "minecraft:pink_wool"
+      },
+      "C": {
+        "item": "minecraft:chain"
+      }
+    },
+    "result": {
+      "item": "plushies:piglin_brute_plushie",
+      "count": 1
+    }
+  }
+}

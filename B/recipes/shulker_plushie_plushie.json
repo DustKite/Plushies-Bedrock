@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:shulker_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#S#",
+      "#W#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:magenta_wool"
+      },
+      "S": {
+        "item": "minecraft:shulker_shell"
+      },
+      "W": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:shulker_plushie",
+      "count": 1
+    }
+  }
+}

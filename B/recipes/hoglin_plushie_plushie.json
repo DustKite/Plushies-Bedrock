@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:hoglin_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#WL",
+      "OPO",
+      "O O"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:bone_block"
+      },
+      "W": {
+        "item": "minecraft:white_wool"
+      },
+      "L": {
+        "item": "minecraft:leather"
+      },
+      "O": {
+        "item": "minecraft:orange_wool"
+      },
+      "P": {
+        "item": "minecraft:porkchop"
+      }
+    },
+    "result": {
+      "item": "plushies:hoglin_plushie",
+      "count": 1
+    }
+  }
+}

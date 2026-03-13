@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:piglin_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "PPP",
+      " P "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:piglin_head"
+      },
+      "P": {
+        "item": "minecraft:pink_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:piglin_plushie",
+      "count": 1
+    }
+  }
+}

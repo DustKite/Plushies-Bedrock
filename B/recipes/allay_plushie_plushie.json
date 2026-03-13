@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:allay_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#L#",
+      "LLL",
+      "LCL"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:white_wool"
+      },
+      "L": {
+        "item": "minecraft:light_blue_wool"
+      },
+      "C": {
+        "item": "minecraft:cookie"
+      }
+    },
+    "result": {
+      "item": "plushies:allay_plushie",
+      "count": 1
+    }
+  }
+}

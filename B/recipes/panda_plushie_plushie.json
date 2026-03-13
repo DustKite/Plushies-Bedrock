@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:panda_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "BWB",
+      " W "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:bamboo"
+      },
+      "B": {
+        "item": "minecraft:black_wool"
+      },
+      "W": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:panda_plushie",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:red_fox_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "###",
+      "B#B",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:orange_wool"
+      },
+      "B": {
+        "item": "minecraft:black_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:red_fox_plushie",
+      "count": 1
+    }
+  }
+}

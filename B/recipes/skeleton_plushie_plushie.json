@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:skeleton_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " # ",
+      "WWW",
+      " W "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:skeleton_skull"
+      },
+      "W": {
+        "item": "minecraft:white_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:skeleton_plushie",
+      "count": 1
+    }
+  }
+}

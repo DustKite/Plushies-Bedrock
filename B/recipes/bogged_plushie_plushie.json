@@ -1,0 +1,34 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:bogged_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#SR",
+      "GGG",
+      " G "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:brown_mushroom"
+      },
+      "S": {
+        "item": "minecraft:skeleton_skull"
+      },
+      "R": {
+        "item": "minecraft:red_mushroom"
+      },
+      "G": {
+        "item": "minecraft:green_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:bogged_plushie",
+      "count": 1
+    }
+  }
+}

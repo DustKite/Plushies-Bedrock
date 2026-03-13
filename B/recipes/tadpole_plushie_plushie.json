@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:tadpole_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#B#",
+      "BBB"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:black_wool"
+      },
+      "B": {
+        "item": "minecraft:brown_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:tadpole_plushie",
+      "count": 1
+    }
+  }
+}

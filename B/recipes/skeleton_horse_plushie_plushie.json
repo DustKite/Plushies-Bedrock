@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:skeleton_horse_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#S ",
+      "B#B",
+      "B #"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:white_wool"
+      },
+      "S": {
+        "item": "minecraft:saddle"
+      },
+      "B": {
+        "item": "minecraft:bone"
+      }
+    },
+    "result": {
+      "item": "plushies:skeleton_horse_plushie",
+      "count": 1
+    }
+  }
+}

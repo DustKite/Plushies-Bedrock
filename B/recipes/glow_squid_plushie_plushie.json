@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:glow_squid_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#C#",
+      "CCC",
+      "CGC"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:black_wool"
+      },
+      "C": {
+        "item": "minecraft:cyan_wool"
+      },
+      "G": {
+        "item": "minecraft:glow_ink_sac"
+      }
+    },
+    "result": {
+      "item": "plushies:glow_squid_plushie",
+      "count": 1
+    }
+  }
+}

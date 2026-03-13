@@ -1,0 +1,37 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:white_splotched_rabbit_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#W#",
+      "WPB",
+      "RBR"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:light_gray_wool"
+      },
+      "W": {
+        "item": "minecraft:white_wool"
+      },
+      "P": {
+        "item": "minecraft:pink_wool"
+      },
+      "B": {
+        "item": "minecraft:black_wool"
+      },
+      "R": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "result": {
+      "item": "plushies:white_splotched_rabbit_plushie",
+      "count": 1
+    }
+  }
+}

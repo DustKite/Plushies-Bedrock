@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "plushies:slime_plushie"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "##",
+      "GG",
+      "GG"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:slime_ball"
+      },
+      "G": {
+        "item": "minecraft:green_wool"
+      }
+    },
+    "result": {
+      "item": "plushies:slime_plushie",
+      "count": 1
+    }
+  }
+}
