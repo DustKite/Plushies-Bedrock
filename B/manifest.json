@@ -5,7 +5,7 @@
             "version": [
                 4,
                 2,
-                0
+                1
             ]
         },
         {
@@ -26,7 +26,7 @@
         "version": [
             4,
             2,
-            0
+            1
         ]
     },
     "modules": [
@@ -37,14 +37,14 @@
             "version": [
                 4,
                 2,
-                0
+                1
             ]
         }
     ],
     "metadata": {
         "product_type": "addon",
         "authors": [
-            "Dust_Kite"
+            "Dust_Kite/Elaikes"
         ]
     }
 }

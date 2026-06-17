@@ -106,6 +106,26 @@
             },
             "minecraft:connection_rule": {
                 "accepts_connections_from": "none"
+            },
+            "minecraft:liquid_detection": {
+                "detection_rules": [
+                    {
+                        "on_liquid_touches": "popped"
+                    }
+                ]
+            },
+            "minecraft:flammable": {
+                "catch_chance_modifier": 15,
+                "destroy_chance_modifier": 30
+            },
+            "minecraft:placement_filter": {
+                "conditions": [
+                    {
+                        "allowed_faces": [
+                            "up"
+                        ]
+                    }
+                ]
             }
         }
     }
