@@ -2,7 +2,7 @@
     "format_version": "1.26.0",
     "minecraft:block": {
         "description": {
-            "identifier": "plushies:warden_plushie",
+            "identifier": "plushies:dragon_plushie",
             "menu_category": {
                 "category": "items",
                 "group": "plushies:itemGroup.name.plushie"
@@ -70,38 +70,38 @@
             "minecraft:destructible_by_mining": {
                 "seconds_to_destroy": 0.15
             },
-            "minecraft:geometry": "geometry.warden_plushie",
+            "minecraft:geometry": "geometry.dragon_plushie",
             "minecraft:light_dampening": 0,
             "minecraft:destructible_by_explosion": {
                 "explosion_resistance": 0.1
             },
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "warden_plushie"
+                    "texture": "dragon_plushie"
                 }
             },
             "minecraft:collision_box": {
                 "origin": [
-                    -7.2,
+                    -8.0,
                     0.0,
-                    -2.4
+                    -8.0
                 ],
                 "size": [
-                    14.4,
                     16.0,
-                    4.8
+                    9.0,
+                    16.0
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
-                    -7.2,
+                    -8.0,
                     0.0,
-                    -2.4
+                    -8.0
                 ],
                 "size": [
-                    14.4,
                     16.0,
-                    4.8
+                    9.0,
+                    16.0
                 ]
             },
             "minecraft:connection_rule": {
@@ -130,7 +130,7 @@
             "tag:minecraft:is_shears_item_destructible": {},
             "plushies:is_plushies": {},
             "minecraft:destruction_particles": {
-                "texture": "wool_colored_cyan"
+                "texture": "wool_colored_black"
             },
             "minecraft:precipitation_interactions": {
                 "precipitation_behavior": "obstruct_rain"

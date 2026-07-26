@@ -217,6 +217,9 @@
     "plushies:drowned_plushie": {
         "sound": "cloth"
     },
+    "plushies:dragon_plushie": {
+        "sound": "cloth"
+    },
     "plushies:ghast_plushie": {
         "sound": "cloth"
     },

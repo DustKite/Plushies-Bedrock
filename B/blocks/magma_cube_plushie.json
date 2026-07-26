@@ -126,6 +126,11 @@
                         ]
                     }
                 ]
+            },
+            "tag:minecraft:is_shears_item_destructible": {},
+            "plushies:is_plushies": {},
+            "minecraft:precipitation_interactions": {
+                "precipitation_behavior": "obstruct_rain"
             }
         }
     }

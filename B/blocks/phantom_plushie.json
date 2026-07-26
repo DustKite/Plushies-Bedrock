@@ -82,26 +82,26 @@
             },
             "minecraft:collision_box": {
                 "origin": [
-                    -7.75,
+                    -4.8,
                     0.0,
-                    -4.1
+                    -8.0
                 ],
                 "size": [
-                    15.5,
-                    1.5,
-                    10.0
+                    9.6,
+                    3.2,
+                    16.0
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
-                    -7.75,
+                    -4.8,
                     0.0,
-                    -4.1
+                    -8.0
                 ],
                 "size": [
-                    15.5,
-                    1.5,
-                    10.0
+                    9.6,
+                    3.2,
+                    16.0
                 ]
             },
             "minecraft:connection_rule": {
@@ -126,6 +126,14 @@
                         ]
                     }
                 ]
+            },
+            "tag:minecraft:is_shears_item_destructible": {},
+            "plushies:is_plushies": {},
+            "minecraft:destruction_particles": {
+                "texture": "wool_colored_blue"
+            },
+            "minecraft:precipitation_interactions": {
+                "precipitation_behavior": "obstruct_rain"
             }
         }
     }

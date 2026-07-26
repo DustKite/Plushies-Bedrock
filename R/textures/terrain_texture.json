@@ -51,6 +51,9 @@
         "dolphin_plushie": {
             "textures": "textures/blocks/dolphin_plushie"
         },
+        "dragon_plushie": {
+            "textures": "textures/blocks/dragon_plushie"
+        },
         "parrot_plushie": {
             "textures": "textures/blocks/parrot_plushie"
         },

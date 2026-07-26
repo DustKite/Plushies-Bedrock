@@ -88,7 +88,7 @@
                 ],
                 "size": [
                     8.0,
-                    13.0,
+                    14.4,
                     8.0
                 ]
             },
@@ -100,7 +100,7 @@
                 ],
                 "size": [
                     8.0,
-                    13.0,
+                    14.4,
                     8.0
                 ]
             },
@@ -126,6 +126,14 @@
                         ]
                     }
                 ]
+            },
+            "tag:minecraft:is_shears_item_destructible": {},
+            "plushies:is_plushies": {},
+            "minecraft:destruction_particles": {
+                "texture": "wool_colored_green"
+            },
+            "minecraft:precipitation_interactions": {
+                "precipitation_behavior": "obstruct_rain"
             }
         }
     }

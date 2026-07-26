@@ -84,24 +84,24 @@
                 "origin": [
                     -4.0,
                     0.0,
-                    -3.0
+                    -4.0
                 ],
                 "size": [
-                    9.0,
                     8.0,
-                    6.0
+                    8.8,
+                    8.0
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
                     -4.0,
                     0.0,
-                    -3.0
+                    -4.0
                 ],
                 "size": [
-                    9.0,
                     8.0,
-                    6.0
+                    8.8,
+                    8.0
                 ]
             },
             "minecraft:connection_rule": {
@@ -126,6 +126,11 @@
                         ]
                     }
                 ]
+            },
+            "tag:minecraft:is_shears_item_destructible": {},
+            "plushies:is_plushies": {},
+            "minecraft:precipitation_interactions": {
+                "precipitation_behavior": "obstruct_rain"
             }
         }
     }
