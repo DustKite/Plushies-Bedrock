@@ -78,30 +78,36 @@
             "minecraft:material_instances": {
                 "*": {
                     "texture": "snow_golem_plushie"
+                },
+                "snow_golem_plushie_pumpkin": {
+                    "texture": "snow_golem_plushie_pumpkin"
+                },
+                "snow_golem_plushie": {
+                    "texture": "snow_golem_plushie"
                 }
             },
             "minecraft:collision_box": {
                 "origin": [
-                    -4.0,
-                    0.0,
-                    -4.0
+                    -6.34924,
+                    0,
+                    -3.4
                 ],
                 "size": [
-                    8.0,
-                    15.2,
-                    8.0
+                    12.72792,
+                    15,
+                    7
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
-                    -4.0,
-                    0.0,
-                    -4.0
+                    -6.34924,
+                    0,
+                    -3.4
                 ],
                 "size": [
-                    8.0,
-                    15.2,
-                    8.0
+                    12.72792,
+                    15,
+                    7
                 ]
             },
             "minecraft:connection_rule": {

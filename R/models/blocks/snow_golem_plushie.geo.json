@@ -1,5 +1,5 @@
 {
-	"format_version": "1.21.20",
+	"format_version": "1.21.110",
 	"minecraft:geometry": [
 		{
 			"description": {
@@ -19,36 +19,96 @@
 							"origin": [-3.5, 0, -3.4],
 							"size": [7, 5, 7],
 							"uv": {
-								"north": {"uv": [3, 12], "uv_size": [3, 3]},
-								"east": {"uv": [0, 12], "uv_size": [3, 3]},
-								"south": {"uv": [9, 12], "uv_size": [3, 3]},
-								"west": {"uv": [6, 12], "uv_size": [3, 3]},
-								"up": {"uv": [6, 12], "uv_size": [-3, -3]},
-								"down": {"uv": [9, 12], "uv_size": [-3, -3]}
+								"north": { "uv": [3, 12], "uv_size": [3, 3], "material_instance": "snow_golem_plushie" },
+								"east": { "uv": [0, 12], "uv_size": [3, 3], "material_instance": "snow_golem_plushie" },
+								"south": { "uv": [9, 12], "uv_size": [3, 3], "material_instance": "snow_golem_plushie" },
+								"west": { "uv": [6, 12], "uv_size": [3, 3], "material_instance": "snow_golem_plushie" },
+								"up": { "uv": [6, 12], "uv_size": [-3, -3], "material_instance": "snow_golem_plushie" },
+								"down": { "uv": [9, 12], "uv_size": [-3, -3], "material_instance": "snow_golem_plushie" }
 							}
 						},
 						{
 							"origin": [-2.5, 5, -2.4],
 							"size": [5, 5, 5],
 							"uv": {
-								"north": {"uv": [2.5, 6.5], "uv_size": [2.5, 2.5]},
-								"east": {"uv": [0, 6.5], "uv_size": [2.5, 2.5]},
-								"south": {"uv": [7.5, 6.5], "uv_size": [2.5, 2.5]},
-								"west": {"uv": [5, 6.5], "uv_size": [2.5, 2.5]},
-								"up": {"uv": [5, 6.5], "uv_size": [-2.5, -2.5]},
-								"down": {"uv": [7.5, 6.5], "uv_size": [-2.5, -2.5]}
+								"north": { "uv": [2.5, 6.5], "uv_size": [2.5, 2.5], "material_instance": "snow_golem_plushie" },
+								"east": { "uv": [0, 6.5], "uv_size": [2.5, 2.5], "material_instance": "snow_golem_plushie" },
+								"south": { "uv": [7.5, 6.5], "uv_size": [2.5, 2.5], "material_instance": "snow_golem_plushie" },
+								"west": { "uv": [5, 6.5], "uv_size": [2.5, 2.5], "material_instance": "snow_golem_plushie" },
+								"up": { "uv": [5, 6.5], "uv_size": [-2.5, -2.5], "material_instance": "snow_golem_plushie" },
+								"down": { "uv": [7.5, 6.5], "uv_size": [-2.5, -2.5], "material_instance": "snow_golem_plushie" }
 							}
 						},
 						{
-							"origin": [-2, 10, -1.9],
-							"size": [4, 4, 4],
+							"origin": [-1, 10, -0.9],
+							"size": [2, 2, 2],
 							"uv": {
-								"north": {"uv": [2, 2], "uv_size": [2, 2]},
-								"east": {"uv": [0, 2], "uv_size": [2, 2]},
-								"south": {"uv": [6, 2], "uv_size": [2, 2]},
-								"west": {"uv": [4, 2], "uv_size": [2, 2]},
-								"up": {"uv": [4, 2], "uv_size": [-2, -2]},
-								"down": {"uv": [6, 2], "uv_size": [-2, -2]}
+								"north": { "uv": [2, 2], "uv_size": [2, 2], "material_instance": "snow_golem_plushie" },
+								"east": { "uv": [0, 2], "uv_size": [2, 2], "material_instance": "snow_golem_plushie" },
+								"south": { "uv": [6, 2], "uv_size": [2, 2], "material_instance": "snow_golem_plushie" },
+								"west": { "uv": [4, 2], "uv_size": [2, 2], "material_instance": "snow_golem_plushie" },
+								"up": { "uv": [4, 2], "uv_size": [-2, -2], "material_instance": "snow_golem_plushie" },
+								"down": { "uv": [6, 2], "uv_size": [-2, -2], "material_instance": "snow_golem_plushie" }
+							}
+						},
+						{
+							"origin": [-2.5, 10, -2.4],
+							"size": [5, 5, 1],
+							"uv": {
+								"north": { "uv": [0, 8], "uv_size": [8, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"east": { "uv": [7, 0], "uv_size": [1, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"south": { "uv": [0, 0], "uv_size": [8, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"west": { "uv": [0, 0], "uv_size": [1, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"up": { "uv": [15.5, 8], "uv_size": [-7, -1.5], "material_instance": "snow_golem_plushie_pumpkin" },
+								"down": { "uv": [6, 1], "uv_size": [-6, -1], "material_instance": "snow_golem_plushie_pumpkin" }
+							}
+						},
+						{
+							"origin": [-2.5, 10, 1.6],
+							"size": [5, 5, 1],
+							"uv": {
+								"north": { "uv": [0, 0], "uv_size": [8, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"east": { "uv": [0, 0], "uv_size": [1, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"south": { "uv": [0, 0], "uv_size": [8, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"west": { "uv": [7, 0], "uv_size": [1, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"up": { "uv": [16, 1], "uv_size": [-5.5, -1], "material_instance": "snow_golem_plushie_pumpkin" },
+								"down": { "uv": [6, 1], "uv_size": [-6, -1], "material_instance": "snow_golem_plushie_pumpkin" }
+							}
+						},
+						{
+							"origin": [1.5, 10, -1.4],
+							"size": [1, 5, 3],
+							"uv": {
+								"north": { "uv": [0, 0], "uv_size": [1, 6], "material_instance": "snow_golem_plushie_pumpkin" },
+								"east": { "uv": [0, 0], "uv_size": [8, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"south": { "uv": [0, 0], "uv_size": [1, 6], "material_instance": "snow_golem_plushie_pumpkin" },
+								"west": { "uv": [1, 0], "uv_size": [6, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"up": { "uv": [16, 5.5], "uv_size": [-1, -4.5], "material_instance": "snow_golem_plushie_pumpkin" },
+								"down": { "uv": [1, 4], "uv_size": [-1, -4], "material_instance": "snow_golem_plushie_pumpkin" }
+							}
+						},
+						{
+							"origin": [-2.5, 10, -1.4],
+							"size": [1, 5, 3],
+							"uv": {
+								"north": { "uv": [0, 0], "uv_size": [1, 6], "material_instance": "snow_golem_plushie_pumpkin" },
+								"east": { "uv": [1, 0], "uv_size": [6, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"south": { "uv": [0, 0], "uv_size": [1, 6], "material_instance": "snow_golem_plushie_pumpkin" },
+								"west": { "uv": [0, 0], "uv_size": [8, 8], "material_instance": "snow_golem_plushie_pumpkin" },
+								"up": { "uv": [9.5, 7], "uv_size": [-1.5, -5], "material_instance": "snow_golem_plushie_pumpkin" },
+								"down": { "uv": [1, 4], "uv_size": [-1, -4], "material_instance": "snow_golem_plushie_pumpkin" }
+							}
+						},
+						{
+							"origin": [-1.5, 15, -1.4],
+							"size": [3, 0, 3],
+							"uv": {
+								"north": { "uv": [0, 0], "uv_size": [4, 1], "material_instance": "snow_golem_plushie_pumpkin" },
+								"east": { "uv": [0, 0], "uv_size": [4, 1], "material_instance": "snow_golem_plushie_pumpkin" },
+								"south": { "uv": [0, 0], "uv_size": [4, 1], "material_instance": "snow_golem_plushie_pumpkin" },
+								"west": { "uv": [0, 0], "uv_size": [4, 1], "material_instance": "snow_golem_plushie_pumpkin" },
+								"up": { "uv": [14.5, 6.5], "uv_size": [-5, -5], "material_instance": "snow_golem_plushie_pumpkin" },
+								"down": { "uv": [16, 8], "uv_size": [-8, -8], "material_instance": "snow_golem_plushie_pumpkin" }
 							}
 						},
 						{
@@ -57,12 +117,12 @@
 							"pivot": [8.5, 0, -7.4],
 							"rotation": [0, 0, 45],
 							"uv": {
-								"north": {"uv": [8.5, 0], "uv_size": [6, 0.5]},
-								"east": {"uv": [8, 0.5], "uv_size": [0.5, 0.5]},
-								"south": {"uv": [8.5, 0.5], "uv_size": [6, 0.5]},
-								"west": {"uv": [14.5, 0.5], "uv_size": [0.5, 0.5]},
-								"up": {"uv": [14.5, 1], "uv_size": [-6, -0.5]},
-								"down": {"uv": [14.5, 1], "uv_size": [-6, -0.5]}
+								"north": { "uv": [8.5, 0], "uv_size": [6, 0.5], "material_instance": "snow_golem_plushie" },
+								"east": { "uv": [8, 0.5], "uv_size": [0.5, 0.5], "material_instance": "snow_golem_plushie" },
+								"south": { "uv": [8.5, 0.5], "uv_size": [6, 0.5], "material_instance": "snow_golem_plushie" },
+								"west": { "uv": [14.5, 0.5], "uv_size": [0.5, 0.5], "material_instance": "snow_golem_plushie" },
+								"up": { "uv": [14.5, 1], "uv_size": [-6, -0.5], "material_instance": "snow_golem_plushie" },
+								"down": { "uv": [14.5, 1], "uv_size": [-6, -0.5], "material_instance": "snow_golem_plushie" }
 							}
 						},
 						{
@@ -71,12 +131,12 @@
 							"pivot": [8.5, 0, -7.4],
 							"rotation": [0, 0, 45],
 							"uv": {
-								"north": {"uv": [8.5, 0], "uv_size": [6, 0.5], "uv_rotation": 90},
-								"east": {"uv": [8.5, 0.5], "uv_size": [6, 0.5], "uv_rotation": 270},
-								"south": {"uv": [8.5, 0.5], "uv_size": [6, 0.5], "uv_rotation": 270},
-								"west": {"uv": [8.5, 0.5], "uv_size": [6, 0.5], "uv_rotation": 270},
-								"up": {"uv": [8.5, 1], "uv_size": [-0.5, -0.5], "uv_rotation": 270},
-								"down": {"uv": [15, 1], "uv_size": [-0.5, -0.5], "uv_rotation": 270}
+								"north": { "uv": [8.5, 0], "uv_size": [6, 0.5], "uv_rotation": 90, "material_instance": "snow_golem_plushie" },
+								"east": { "uv": [8.5, 0.5], "uv_size": [6, 0.5], "uv_rotation": 270, "material_instance": "snow_golem_plushie" },
+								"south": { "uv": [8.5, 0.5], "uv_size": [6, 0.5], "uv_rotation": 270, "material_instance": "snow_golem_plushie" },
+								"west": { "uv": [8.5, 0.5], "uv_size": [6, 0.5], "uv_rotation": 270, "material_instance": "snow_golem_plushie" },
+								"up": { "uv": [8.5, 1], "uv_size": [-0.5, -0.5], "uv_rotation": 270, "material_instance": "snow_golem_plushie" },
+								"down": { "uv": [15, 1], "uv_size": [-0.5, -0.5], "uv_rotation": 270, "material_instance": "snow_golem_plushie" }
 							}
 						}
 					]
@@ -125,13 +185,6 @@
 					"rotation_pivot": [0, 0, 0],
 					"scale_pivot": [0, 0, 0],
 					"fit_to_frame": false
-				},
-				"head": {
-					"rotation": [0, 0, 0],
-					"translation": [0, 14.25, 0.75],
-					"scale": [1, 1, 1],
-					"rotation_pivot": [0, 0, 0],
-					"scale_pivot": [0, 0, 0]
 				},
 				"fixed": {
 					"rotation": [0, 0, 0],

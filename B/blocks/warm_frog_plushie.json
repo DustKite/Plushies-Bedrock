@@ -82,24 +82,24 @@
             },
             "minecraft:collision_box": {
                 "origin": [
-                    -5.5,
-                    0.0,
+                    -7.5,
+                    0,
                     -5.5
                 ],
                 "size": [
-                    11.0,
+                    15,
                     8.25,
                     11.25
                 ]
             },
             "minecraft:selection_box": {
                 "origin": [
-                    -5.5,
-                    0.0,
+                    -7.5,
+                    0,
                     -5.5
                 ],
                 "size": [
-                    11.0,
+                    15,
                     8.25,
                     11.25
                 ]
